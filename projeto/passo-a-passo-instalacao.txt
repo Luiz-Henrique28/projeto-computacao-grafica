@@ -1,0 +1,17 @@
+como eu fiz para rodar o projeto do professor
+
+projeto foi instalado num ambiente windows via WSL
+
+eu baixei o projeto contendo o framework disponibilizado pelo professor
+para rodar o codigo exemplo eu acessei a pasta via terminal WSL e rodei os comandos de instalacao das dependencias
+na hora da compilacao recebi o erro: Command 'g++' not found, but can be installed with: sudo apt install g++
+rodei o comando de instalacao sugerido
+compilei e executei via ./exemplo e rodou o codigo de exemplo
+
+ja para rodar o arquivo dentro do framework eu acessei a pasta my_gl_framework tambem via terminal WSL 
+como no framework ja tem o arquivo makefile eu usei apenas o comando make para compilação
+e para rodar o executavel rodei o comando ./cgprog
+
+
+
+
